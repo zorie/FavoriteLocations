@@ -1,11 +1,12 @@
 # FavLocs Web Client
 
-# A web client of the FavLocs server
+COMMIT 1 Zori Tate
 
-## Getting started
+COMMIT 2
 
-### 1. Clone the repository
-### 2. Installing:
+COMMIT 3
+
+
 ```
     npm install
 ```
