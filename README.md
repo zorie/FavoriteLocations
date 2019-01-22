@@ -1,9 +1,9 @@
 # FavLocs Web Client
 
 # A web client of the FavLocs server
-
+-----
 THIS IS NEW CHANGE ---- test
-
+------
 ## Getting started
 
 ### 1. Clone the repository
